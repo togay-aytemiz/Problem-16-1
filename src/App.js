@@ -16,7 +16,6 @@ const faqs = [
   },
 ];
 
-// `isOpen` state değişkenini ana bileşene ( FAQ) kaldırarak ve verileri props aracılığıyla aşağı aktararak state paylaşın
 export default function FAQ() {
   return (
     <div className="bg-white">
